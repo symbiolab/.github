@@ -1,6 +1,6 @@
 # Symbiolab GmbH
 
-> Holistic satisfaction.
+> Experts only.
 
 ## Opensource projects of our employees
 
